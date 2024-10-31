@@ -1,0 +1,4 @@
+*** Product Batch for WooCommerce ***
+
+2017.08.25 - version 1.0.0
+ * First release
